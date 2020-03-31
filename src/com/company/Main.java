@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("hello world ! from github.com  ");
 
-        System.out.println("Sona Yadav");
+        System.out.println("Sona");
 	   
 
     }
